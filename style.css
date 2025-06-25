@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    height:750px;
+    border: 2px solid rgb(88, 86, 86);
+    justify-content: space-evenly;
+    border-style: none;
+}
+.first-container{
+    border: 2px solid rgb(167, 167, 167);
+    color: black;
+    width: 17%;
+    background-color: aqua;
+    height: 250px;
+    border-style: none;
+}  
+#class{
+    background-color: rgb(24, 104, 104);
+}
+#helo{
+     background-color: rgb(5, 49, 49);
+}
+#why{
+    background-color: rgb(111, 2, 2);
+}
+/* 
+helo i am hehe
+ */
